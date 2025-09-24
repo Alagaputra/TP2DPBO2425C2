@@ -6,7 +6,8 @@ untuk keberkahannya maka saya tidak akan melakukan kecurangan
 sepertu yang telah di spesifikasikan Aamiin.*/
 
 Design
-![alt text](Design\Design.jpeg)
+
+![Diagram Class](Design/Design.jpeg)
 
 Atribut per Class
 
